@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Proj_C++/module8/snake/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/snake.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\snake.dir\\src\\Snake.cpp.obj -c D:\\Proj_C++\\module8\\snake\\src\\Snake.cpp",
+  "file": "D:/Proj_C++/module8/snake/src/Snake.cpp",
+  "output": "CMakeFiles/snake.dir/src/Snake.cpp.obj"
+},
+{
+  "directory": "D:/Proj_C++/module8/snake/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/snake.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\snake.dir\\src\\main.cpp.obj -c D:\\Proj_C++\\module8\\snake\\src\\main.cpp",
+  "file": "D:/Proj_C++/module8/snake/src/main.cpp",
+  "output": "CMakeFiles/snake.dir/src/main.cpp.obj"
+}
+]
